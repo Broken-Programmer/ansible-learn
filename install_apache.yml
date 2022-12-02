@@ -5,6 +5,7 @@
   tasks:
 
   - name: install apache2 and php packages
+    tags: apache,php
     package:
       name: 
         - "{{ apache_package }}" 
