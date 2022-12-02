@@ -1,1 +1,2 @@
+[website]
 server-1@4.193.141.250 apache_package=apache2 php_package=libapache2-mod-php
